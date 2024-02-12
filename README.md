@@ -1,4 +1,4 @@
-#The_Game_Rock_Paper_Scissors
+# The_Game_Rock_Paper_Scissors
 
 This is my second Project in which I used 
 HTML
